@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "channel": "alpha",
+  "name": "Bezel 0.1.0 (Alpha)",
+  "date": "2026-06-21",
+  "notes": "First public Alpha.",
+  "page": "https://github.com/BezelMedia/Bezel/releases/latest",
+  "setup": "https://github.com/BezelMedia/Bezel/releases/download/v0.1.0/Bezel-0.1.0-Setup.exe",
+  "portable": "https://github.com/BezelMedia/Bezel/releases/download/v0.1.0/Bezel-0.1.0-Portable.exe"
+}

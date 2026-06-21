@@ -1,0 +1,16 @@
+Copyright © 2026 RetroBezel.com. All rights reserved.
+
+Bezel is proprietary software. The application binaries provided in this
+repository's Releases are made available for personal use only. You may not
+redistribute, sell, decompile, reverse-engineer, or create derivative works
+from them.
+
+Bezel bundles and/or downloads third-party components that are covered by their
+own licenses (for example, RetroArch under the GNU GPL v3, obtained from
+libretro; and cdrdao under the GNU GPL). Those terms govern those components.
+
+Bezel ships no games and no BIOS files. You must supply your own and own the
+rights to use them.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. USE AT YOUR OWN RISK.
