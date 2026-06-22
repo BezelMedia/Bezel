@@ -33,13 +33,18 @@
 ## Showcase
 
 <p align="center">
-  <img src=".github/assets/library.webp" width="80%" alt="The library shelf"><br>
+  <img src=".github/assets/library.png" width="80%" alt="The library shelf"><br>
   <em>Your library, as a shelf — owned games up top, the full catalog below.</em>
 </p>
 
 <p align="center">
-  <img src=".github/assets/details.webp" width="49%" alt="Game details">
-  <img src=".github/assets/translate.webp" width="49%" alt="On-screen translation"><br>
+  <img src=".github/assets/banner.png" width="80%" alt="A SteamGridDB hero banner shown in Bezel"><br>
+  <em>Big, cinematic hero banners — fetched free from SteamGridDB.</em>
+</p>
+
+<p align="center">
+  <img src=".github/assets/details.png" width="49%" alt="Game details">
+  <img src=".github/assets/translate.png" width="49%" alt="On-screen translation"><br>
   <em>Rich game details &nbsp;·&nbsp; live on-screen translation for import games.</em>
 </p>
 
@@ -63,6 +68,11 @@
 - **Browse "not-collected"** — see *every* game for a system, with art, even the ones you don't own yet — a built-in wishlist and discovery tool.
 - **Facts & descriptions** — genre, developer, publisher, year, player count, and a summary for thousands of titles, all offline.
 - **Optional online polish** — add a free [SteamGridDB](https://www.steamgriddb.com) key for big hero banners + logos, or TheGamesDB for the rare title the built-in database misses.
+
+### 🖼️ Beautiful hero banners
+- **Wide, cinematic hero art and crisp logos** for the game you're looking at — your shelf goes from a grid of boxes to a cover-flow-worthy showcase.
+- **Free to switch on:** create a [**SteamGridDB**](https://www.steamgriddb.com) account, generate an API key (takes a minute), paste it into **Settings → SteamGridDB key**, and hit **Fetch banners**. Bezel finds a matching hero banner + logo for each title automatically.
+- **Yours to curate** — don't like a match? Swap or remove a banner per game and Bezel remembers your choice.
 
 ### 🎮 Play any way you like
 - **In-app play** — built-in WASM cores run instantly, no setup, right inside Bezel.
