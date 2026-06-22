@@ -6,8 +6,8 @@
 <h3 align="center">Your whole retro library, beautifully shelved.</h3>
 
 <p align="center">
-  <a href="https://github.com/BezelMedia/Bezel/releases/latest"><img src="https://img.shields.io/github/v/release/BezelMedia/Bezel?label=download&color=ff8a3d" alt="Latest release"></a>
-  <a href="https://github.com/BezelMedia/Bezel/releases"><img src="https://img.shields.io/github/downloads/BezelMedia/Bezel/total?color=ff8a3d" alt="Downloads"></a>
+  <a href="https://github.com/BezelMedia/Bezel/releases/latest"><img src="https://img.shields.io/github/v/release/BezelMedia/Bezel?label=download&color=ff8a3d&cb=1" alt="Latest release"></a>
+  <a href="https://github.com/BezelMedia/Bezel/releases"><img src="https://img.shields.io/github/downloads/BezelMedia/Bezel/total?color=ff8a3d&cb=1" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white" alt="Windows">
   <a href="https://ko-fi.com/retrobezel"><img src="https://img.shields.io/badge/support-Ko--fi-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi"></a>
 </p>
