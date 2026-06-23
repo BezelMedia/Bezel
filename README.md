@@ -38,6 +38,11 @@
 </p>
 
 <p align="center">
+  <img src=".github/assets/tv.png" width="80%" alt="Bezel's TV / couch mode — a full-screen big-picture view with a cinematic hero over rows of box art"><br>
+  <em>TV / couch mode — one button turns Bezel into a console-style big-picture view.</em>
+</p>
+
+<p align="center">
   <img src=".github/assets/banner.png" width="80%" alt="A SteamGridDB hero banner shown in Bezel"><br>
   <em>Big, cinematic hero banners — fetched free from SteamGridDB.</em>
 </p>
@@ -68,6 +73,11 @@
 - **Browse "not-collected"** — see *every* game for a system, with art, even the ones you don't own yet — a built-in wishlist and discovery tool.
 - **Facts & descriptions** — genre, developer, publisher, year, player count, and a summary for thousands of titles, all offline.
 - **Optional online polish** — add a free [SteamGridDB](https://www.steamgriddb.com) key for big hero banners + logos, or TheGamesDB for the rare title the built-in database misses.
+
+### 📺 TV / couch mode
+- **One-button big-picture** — go full-screen into a console-style view: a cinematic hero for the game in focus over horizontal shelves of cover art.
+- **The rows that matter** — *Continue playing*, *Most played*, your collections, and every system, all browsable from the sofa.
+- **Controller-first** — D-pad/stick to glide the cover cursor, **A** to play, **Y** for details, **B** to drop back to the desktop view.
 
 ### 🗃️ Collections, your way
 - **Custom collections** — group games into named lists (Backlog, RPG night, co-op favourites) and add any game from its details page.
