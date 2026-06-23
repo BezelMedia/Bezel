@@ -52,11 +52,11 @@
 
 ## Download & install
 
-1. Grab the latest **`Bezel-0.1.0-Setup.exe`** from [**Releases**](https://github.com/BezelMedia/Bezel/releases/latest).
+1. Grab the latest **`Setup.exe`** from [**Releases**](https://github.com/BezelMedia/Bezel/releases/latest).
 2. Run it. Windows SmartScreen may warn that the app is unrecognized (it isn't code-signed yet) — click **More info → Run anyway**.
 3. On first launch Bezel creates its folders under **`Documents\Bezel`** and quietly downloads RetroArch from libretro in the background. Drop your games into the matching per-system folder under `Documents\Bezel\roms`, then hit **Scan**.
 
-> Prefer not to install? A **Portable** build runs straight from the .exe.
+> Already installed? Update in-app from **Settings → Software update** — no need to reinstall.
 
 ---
 
@@ -69,16 +69,27 @@
 - **Facts & descriptions** — genre, developer, publisher, year, player count, and a summary for thousands of titles, all offline.
 - **Optional online polish** — add a free [SteamGridDB](https://www.steamgriddb.com) key for big hero banners + logos, or TheGamesDB for the rare title the built-in database misses.
 
+### 🗃️ Collections, your way
+- **Custom collections** — group games into named lists (Backlog, RPG night, co-op favourites) and add any game from its details page.
+- **Auto cover-mosaic art** — each collection illustrates itself from its games' covers, Apple/Nintendo-playlist style, or pick from a gallery of icons and colours.
+- **Smart collections** — *Recently played*, *Unplayed*, and *Recently added* build themselves, no tagging required.
+
 ### 🖼️ Beautiful hero banners
 - **Wide, cinematic hero art and crisp logos** for the game you're looking at — your shelf goes from a grid of boxes to a cover-flow-worthy showcase.
 - **Free to switch on:** create a [**SteamGridDB**](https://www.steamgriddb.com) account, generate an API key (takes a minute), paste it into **Settings → SteamGridDB key**, and hit **Fetch banners**. Bezel finds a matching hero banner + logo for each title automatically.
 - **Yours to curate** — don't like a match? Swap or remove a banner per game and Bezel remembers your choice.
 
 ### 🎮 Play any way you like
-- **In-app play** — built-in WASM cores run instantly, no setup, right inside Bezel.
-- **RetroArch** — downloaded automatically from libretro on first run and used for disc-based and heavy-3D systems (PS2, PSP, GameCube, Wii, 3DS, Saturn, Dreamcast, Sega CD, Neo Geo CD). Cores are fetched on demand per system.
+- **RetroArch by default** — downloaded automatically from libretro on first run, with cores fetched on demand per system. Per-game core overrides, bezels, and patches; multi-disc games just work.
+- **In-app play** — opt any 2D / lighter system into Bezel's built-in WASM cores for instant, no-setup play. Those cores are pre-downloaded on first run, so in-app play works offline too.
+- **Pick your video driver** — OpenGL, Vulkan, or Direct3D 11, or an **Auto** mode that chooses the best one per system.
 - **Custom emulators** — point any system at your own emulator (e.g. Azahar for 3DS `.cia`) with a `{rom}` argument template.
 - **Save states & resume**, **in-app screenshots & recording**, **start-in-fullscreen**, and a controller-friendly in-game menu.
+
+### 🏆 RetroAchievements
+- **Earn achievements** in RetroArch-launched games, with on-screen unlock pops and an optional **hardcore mode**.
+- **Built-in dashboard** — your profile, points, recent unlocks, and per-game progress, plus each game's full achievement list right in its details.
+- Sign in with your free [RetroAchievements](https://retroachievements.org) account — your password is never stored, only a login token.
 
 ### 💿 Real discs, first-class
 - **Identify** a disc the moment you insert it.
