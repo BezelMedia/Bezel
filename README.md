@@ -10,11 +10,15 @@
   <a href="https://github.com/BezelMedia/Bezel/releases"><img src="https://img.shields.io/github/downloads/BezelMedia/Bezel/total?color=ff8a3d&cb=1" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white" alt="Windows">
   <a href="https://ko-fi.com/retrobezel"><img src="https://img.shields.io/badge/support-Ko--fi-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://www.reddit.com/r/Bezel/"><img src="https://img.shields.io/badge/Reddit-r%2FBezel-FF4500?logo=reddit&logoColor=white" alt="r/Bezel on Reddit"></a>
+  <a href="https://x.com/retrobezel"><img src="https://img.shields.io/badge/X-@retrobezel-000000?logo=x&logoColor=white" alt="Bezel on X"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/BezelMedia/Bezel/releases/latest"><b>⬇ Download</b></a> ·
   <a href="https://retrobezel.com">Website</a> ·
+  <a href="https://www.reddit.com/r/Bezel/">Reddit</a> ·
+  <a href="https://x.com/retrobezel">X</a> ·
   <a href="https://ko-fi.com/retrobezel">Support</a> ·
   <a href="https://github.com/BezelMedia/Bezel/issues">Feedback</a>
 </p>
