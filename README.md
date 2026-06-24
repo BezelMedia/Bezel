@@ -37,18 +37,15 @@
 ## Showcase
 
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=dar0xdvP3MI">
+    <img src="https://img.youtube.com/vi/dar0xdvP3MI/maxresdefault.jpg" width="80%" alt="Watch the Bezel alpha preview on YouTube"><br>
+    <em>▶ Watch the alpha preview</em>
+  </a>
+</p>
+
+<p align="center">
   <img src=".github/assets/library.png" width="80%" alt="The library shelf"><br>
   <em>Your library, as a shelf — owned games up top, the full catalog below.</em>
-</p>
-
-<p align="center">
-  <img src=".github/assets/tv.png" width="80%" alt="Bezel's TV / couch mode — a full-screen big-picture view with a cinematic hero over rows of box art"><br>
-  <em>TV / couch mode — one button turns Bezel into a console-style big-picture view.</em>
-</p>
-
-<p align="center">
-  <img src=".github/assets/banner.png" width="80%" alt="A SteamGridDB hero banner shown in Bezel"><br>
-  <em>Big, cinematic hero banners — fetched free from SteamGridDB.</em>
 </p>
 
 <p align="center">
