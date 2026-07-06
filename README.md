@@ -26,8 +26,9 @@
 
 <p align="center">
   Bezel turns a pile of scattered ROMs and discs into a gorgeous, console-style shelf —
-  box art, descriptions, cloud-synced saves, and live on-screen translation, with every
-  system you love in one place. Built for the couch and the controller.
+  box art, descriptions, cloud-synced saves, live on-screen translation, game soundtracks,
+  and even YouTube &amp; Twitch on the couch — with every system you love in one place.
+  Built for the couch and the controller.
 </p>
 
 > [!WARNING]
@@ -45,8 +46,8 @@
 </p>
 
 <p align="center">
-  <img src=".github/assets/library.png" width="80%" alt="The library shelf"><br>
-  <em>Your library, as a shelf — owned games up top, the full catalog below.</em>
+  <img src=".github/assets/tvv.png" width="80%" alt="Bezel's built-in TV — YouTube and Twitch inside the app, with a video pinned in the corner over a game"><br>
+  <em>New: a TV built in — YouTube &amp; Twitch on the couch, and pin a stream right into your game.</em>
 </p>
 
 <p align="center">
@@ -82,10 +83,21 @@
 - **Facts & descriptions** — genre, developer, publisher, year, player count, and a summary for thousands of titles, all offline.
 - **Optional online polish** — add a free [SteamGridDB](https://www.steamgriddb.com) key for big hero banners + logos, or TheGamesDB for the rare title the built-in database misses.
 
-### 📺 TV / couch mode
+### 🛋️ Couch mode (big-picture)
 - **One-button big-picture** — go full-screen into a console-style view: a cinematic hero for the game in focus over horizontal shelves of cover art.
 - **The rows that matter** — *Continue playing*, *Most played*, your collections, and every system, all browsable from the sofa.
 - **Controller-first** — D-pad/stick to glide the cover cursor, **A** to play, **Y** for details, **B** to drop back to the desktop view.
+
+### 📺 A TV, built in
+- **YouTube & Twitch, right in Bezel** — browse and watch either service in a controller-driven panel; no keyboard or phone needed, with an on-screen keyboard for search and sign-in.
+- **Ads handled** — trackers and page ads are blocked and video ads are auto-skipped, for a clean lean-back watch.
+- **Your own channels** — pin the streamers, shows, and playlists you actually follow as custom tiles.
+- **Pin it into your game** — pin a video or stream and it follows you in, floating in the corner while you play — a walkthrough, a speedrun, or just something on in the background.
+
+### 🎵 Music — your library, with a soundtrack
+- **It plays your games' music** — select a game and its theme fades in, captured straight from the emulator and looped as you browse. Generate a whole system's soundtracks in one click.
+- **A proper player** — a soundtrack library with album art, plus play/queue/shuffle from a player bar.
+- **Audio CDs too** — pop in a music CD and Bezel identifies it (MusicBrainz), plays it, or rips it to your library.
 
 ### 🗃️ Collections, your way
 - **Custom collections** — group games into named lists (Backlog, RPG night, co-op favourites) and add any game from its details page.
