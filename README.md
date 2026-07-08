@@ -10,6 +10,7 @@
   <a href="https://github.com/BezelMedia/Bezel/releases"><img src="https://img.shields.io/github/downloads/BezelMedia/Bezel/total?color=ff8a3d&cb=1" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Steam%20Deck%20%26%20Linux-x86__64-E95420?logo=linux&logoColor=white" alt="Steam Deck & Linux">
+  <a href="https://github.com/BezelMedia/Bezel/releases/tag/macos-0.2.0"><img src="https://img.shields.io/badge/macOS-Apple%20Silicon-000000?logo=apple&logoColor=white" alt="macOS"></a>
   <a href="https://ko-fi.com/retrobezel"><img src="https://img.shields.io/badge/support-Ko--fi-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <a href="https://www.reddit.com/r/Bezel/"><img src="https://img.shields.io/badge/Reddit-r%2FBezel-FF4500?logo=reddit&logoColor=white" alt="r/Bezel on Reddit"></a>
   <a href="https://x.com/retrobezel"><img src="https://img.shields.io/badge/X-@retrobezel-000000?logo=x&logoColor=white" alt="Bezel on X"></a>
@@ -69,6 +70,11 @@
 1. Download **`Bezel-x86_64.AppImage`** from [**Releases**](https://github.com/BezelMedia/Bezel/releases/latest).
 2. Right-click it → Properties → Permissions → check **Is executable**, then run it.
 3. To play from Game Mode: **exit Steam**, press **🎮 Add Bezel to Steam** in Settings (shortcut, artwork and launch options are set automatically), start Steam, and pick the **Gamepad** controller template on Bezel's page once. RetroArch (Flatpak) installs itself on first launch.
+
+**macOS (Apple Silicon)**
+1. Download **`Bezel-macOS-0.2.0-arm64.dmg`** from the [**macOS release**](https://github.com/BezelMedia/Bezel/releases/tag/macos-0.2.0) and drag Bezel to Applications.
+2. It isn’t notarized yet, so **right-click the app → Open** the first time (or *System Settings → Privacy & Security → Open Anyway*). If it still refuses, run `xattr -cr /Applications/Bezel.app`.
+3. On first launch it downloads RetroArch and the offline metadata automatically. The Mac build is new and experimental — expect rough edges. _(Apple Silicon only for now.)_
 
 > Already installed? Update in-app from **Settings → Software update** — no need to reinstall (on Linux the AppImage replaces itself in place).
 
