@@ -90,6 +90,12 @@
 - **Optional online polish** — add a free [SteamGridDB](https://www.steamgriddb.com) key for big hero banners + logos, or TheGamesDB for the rare title the built-in database misses.
 
 ### 🛋️ Couch mode (big-picture)
+
+<p align="center">
+  <img src=".github/assets/tv.png" width="80%" alt="Bezel's couch mode — a full-screen big-picture view with a cinematic hero banner above horizontal rows of box art"><br>
+  <em>Lean back — one button turns Bezel into a console.</em>
+</p>
+
 - **One-button big-picture** — go full-screen into a console-style view: a cinematic hero for the game in focus over horizontal shelves of cover art.
 - **The rows that matter** — *Continue playing*, *Most played*, your collections, and every system, all browsable from the sofa.
 - **Controller-first** — D-pad/stick to glide the cover cursor, **A** to play, **Y** for details, **B** to drop back to the desktop view.
