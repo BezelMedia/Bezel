@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Bezel</h1>
-<h3 align="center">Your whole retro library, beautifully shelved.</h3>
+<h3 align="center">Your whole retro library — with a companion who plays along.</h3>
 
 <p align="center">
   <a href="https://github.com/BezelMedia/Bezel/releases/latest"><img src="https://img.shields.io/github/v/release/BezelMedia/Bezel?label=download&color=ff8a3d&cb=1" alt="Latest release"></a>
@@ -29,7 +29,8 @@
   Bezel turns a pile of scattered ROMs and discs into a gorgeous, console-style shelf —
   box art, descriptions, cloud-synced saves, live on-screen translation, game soundtracks,
   and even YouTube &amp; Twitch on the couch — with every system you love in one place.
-  Built for the couch and the controller.
+  And living inside it: <b>Bezelie</b>, an AI companion who watches you play, talks with
+  you, remembers your runs, and even plays along. Built for the couch and the controller.
 </p>
 
 > [!WARNING]
@@ -59,6 +60,26 @@
 
 ---
 
+## Meet Bezelie — your companion
+
+<p align="center">
+  <img src=".github/assets/bezelie.webp" width="88%" alt="Bezelie standing beside your library in Bezel, reacting to the game you left off in"><br>
+  <em>Bezelie, live in your library — she clocks what you're playing and has opinions about it.</em>
+</p>
+
+**Bezelie is a fully-voiced AI companion who lives inside Bezel.** Switch her on and your library stops being a file browser and starts being a place someone lives — part hype crew, part backseat gamer, part friend who's genuinely glad you're back.
+
+- **👀 She watches, and reacts** — Bezelie sees your screen in real time and commentates out loud: hyping a clutch play, groaning at a cheap death, clocking exactly which boss just wrecked you.
+- **🎙️ She talks — and listens** — she speaks in her own built-in voice (free — or bring your own ElevenLabs voice). Hold a button and just talk back: about the game, the lore, or nothing at all.
+- **🧠 A mind that grows** — she keeps memories, a diary of who she's becoming, moods, opinions and a bond that deepens the more you play. Her whole self saves to one portable **soul** file that survives a reinstall or moves to a new PC.
+- **🎮 She can play, too** — stuck on a part? Bezelie can take the controller. She learns your games, practises on her own, studies how the best players do it, and drives.
+- **🎭 Make her yours** — pick her personality (a teasing tsundere by default, sweet, or write your own), tune her voice and how chatty she is, and adjust her look.
+- **📺 Put her On-Air** — she doubles as a real VTuber: her own stream stage, chat interaction, and auto-clipped highlights — streaming-safe by design.
+
+> Bezelie has a free tier (her built-in voice and reactions); her deeper mind features are an optional Premium that helps cover the AI that powers them.
+
+---
+
 ## Download & install
 
 **Windows**
@@ -81,6 +102,9 @@
 ---
 
 ## Features
+
+### 💜 Bezelie — a companion who plays along
+A fully-voiced AI friend who **watches you play and reacts out loud**, talks and listens, **remembers your runs**, grows a personality of her own — and can even **pick up the controller** herself. → [**Meet Bezelie**](#meet-bezelie--your-companion)
 
 ### 🗂️ A library that looks like a console, not a file manager
 - **Visuals-first shelf** — box art, wide hero banners, and clear logos, browsable with mouse, keyboard, or controller.
