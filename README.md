@@ -33,30 +33,8 @@
   you, remembers your runs, and even plays along. Built for the couch and the controller.
 </p>
 
-> [!WARNING]
-> **Alpha software** — expect rough edges and changes between builds. Bezel is a **launcher**: it ships **no games and no BIOS**. You bring your own files and own the rights to use them.
-
----
-
-## Showcase
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=dar0xdvP3MI">
-    <img src="https://img.youtube.com/vi/dar0xdvP3MI/maxresdefault.jpg" width="80%" alt="Watch the Bezel alpha preview on YouTube"><br>
-    <em>▶ Watch the alpha preview</em>
-  </a>
-</p>
-
-<p align="center">
-  <img src=".github/assets/tvv.png" width="80%" alt="Bezel's built-in TV — YouTube and Twitch inside the app, with a video pinned in the corner over a game"><br>
-  <em>New: a TV built in — YouTube &amp; Twitch on the couch, and pin a stream right into your game.</em>
-</p>
-
-<p align="center">
-  <img src=".github/assets/details.png" width="49%" alt="Game details">
-  <img src=".github/assets/translate.png" width="49%" alt="On-screen translation"><br>
-  <em>Rich game details &nbsp;·&nbsp; live on-screen translation for import games.</em>
-</p>
+> [!NOTE]
+> **Beta software** — expect rough edges and changes between builds. Bezel is a **launcher**: it ships **no games and no BIOS**. You bring your own files and own the rights to use them.
 
 ---
 
@@ -77,6 +55,23 @@
 - **📺 Put her On-Air** — she doubles as a real VTuber: her own stream stage, chat interaction, and auto-clipped highlights — streaming-safe by design.
 
 > Bezelie has a free tier (her built-in voice and reactions); her deeper mind features are an optional Premium that helps cover the AI that powers them.
+
+---
+
+## Showcase
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dar0xdvP3MI">
+    <img src="https://img.youtube.com/vi/dar0xdvP3MI/maxresdefault.jpg" width="80%" alt="Watch the Bezel beta preview on YouTube"><br>
+    <em>▶ Watch the preview</em>
+  </a>
+</p>
+
+<p align="center">
+  <img src=".github/assets/details.png" width="49%" alt="Game details">
+  <img src=".github/assets/translate.png" width="49%" alt="On-screen translation"><br>
+  <em>Rich game details &nbsp;·&nbsp; live on-screen translation for import games.</em>
+</p>
 
 ---
 
@@ -211,7 +206,7 @@ No. It's a launcher for files you already own — it ships neither.
 No. Bezel downloads it for you on first run. If you already have RetroArch, you can point Bezel at it in Settings.
 
 **Why the SmartScreen warning?**
-The installer isn't code-signed yet (it's an Alpha). Click **More info → Run anyway**. Signing is planned.
+The installer isn't code-signed yet (it's in Beta). Click **More info → Run anyway**. Signing is planned.
 
 **Where do my games and saves live?**
 Under `Documents\Bezel` by default — all paths are changeable in Settings. Cloud saves go to whatever synced folder you choose.
@@ -224,4 +219,4 @@ Bezel is an independent project and is **not affiliated with or endorsed by** Ni
 
 ## Feedback
 
-Hit a bug or have an idea? [**Open an issue**](https://github.com/BezelMedia/Bezel/issues) — Alpha feedback is hugely appreciated. ❤️
+Hit a bug or have an idea? [**Open an issue**](https://github.com/BezelMedia/Bezel/issues) — Beta feedback is hugely appreciated. ❤️
