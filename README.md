@@ -6,11 +6,11 @@
 <h3 align="center">Your whole retro library — with a companion who plays along.</h3>
 
 <p align="center">
-  <a href="https://github.com/BezelMedia/Bezel/releases/latest"><img src="https://img.shields.io/github/v/release/BezelMedia/Bezel?label=download&color=ff8a3d&cb=1" alt="Latest release"></a>
-  <a href="https://github.com/BezelMedia/Bezel/releases"><img src="https://img.shields.io/github/downloads/BezelMedia/Bezel/total?color=ff8a3d&cb=1" alt="Downloads"></a>
+  <a href="https://github.com/BezelMedia/Bezel/releases/latest"><img src="https://img.shields.io/github/v/release/BezelMedia/Bezel?label=download&color=c07de8&cb=1" alt="Latest release"></a>
+  <a href="https://github.com/BezelMedia/Bezel/releases"><img src="https://img.shields.io/github/downloads/BezelMedia/Bezel/total?color=c07de8&cb=1" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Steam%20Deck%20%26%20Linux-x86__64-E95420?logo=linux&logoColor=white" alt="Steam Deck & Linux">
-  <a href="https://github.com/BezelMedia/Bezel/releases/tag/macos-0.2.0"><img src="https://img.shields.io/badge/macOS-Apple%20Silicon-000000?logo=apple&logoColor=white" alt="macOS"></a>
+  <a href="https://github.com/BezelMedia/Bezel/releases/latest"><img src="https://img.shields.io/badge/macOS-Apple%20Silicon-000000?logo=apple&logoColor=white" alt="macOS"></a>
   <a href="https://ko-fi.com/retrobezel"><img src="https://img.shields.io/badge/support-Ko--fi-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi"></a>
   <a href="https://www.reddit.com/r/Bezel/"><img src="https://img.shields.io/badge/Reddit-r%2FBezel-FF4500?logo=reddit&logoColor=white" alt="r/Bezel on Reddit"></a>
   <a href="https://x.com/retrobezel"><img src="https://img.shields.io/badge/X-@retrobezel-000000?logo=x&logoColor=white" alt="Bezel on X"></a>
@@ -27,14 +27,35 @@
 
 <p align="center">
   Bezel turns a pile of scattered ROMs and discs into a gorgeous, console-style shelf —
-  box art, descriptions, cloud-synced saves, live on-screen translation, game soundtracks,
-  and even YouTube &amp; Twitch on the couch — with every system you love in one place.
+  box art, descriptions, game soundtracks, live on-screen translation, seven themes,
+  and a library that follows you from PC to Steam Deck to Mac — with every system you love in one place.
   And living inside it: <b>Bezelie</b>, an AI companion who watches you play, talks with
   you, remembers your runs, and even plays along. Built for the couch and the controller.
 </p>
 
 > [!NOTE]
 > **Beta software** — expect rough edges and changes between builds. Bezel is a **launcher**: it ships **no games and no BIOS**. You bring your own files and own the rights to use them.
+
+---
+
+## New in 0.4 — a new look, and one library on every device
+
+<p align="center">
+  <img src=".github/assets/glass.webp" width="92%" alt="Bezel in the new Glass theme: a floating frosted top bar, a rounded hero for the selected game, rows of box art and a centred icon dock over a violet aurora"><br>
+  <em>Glass — the new flagship theme.</em>
+</p>
+
+- **✨ Glass, and every theme refined** — a new flagship theme of frosted glass over a slow violet aurora, with a floating top bar and icon dock. Bezelie's Room, Console, Night Drive, Amber, Classic and Midnight get the same finish: rounded hero stages, cleaner selection rings, softer dialogs, and one seamless surface from the top bar down.
+- **☁️ Bezel Everywhere** — favorites, playtime, collections and per-game settings sync between your PC, Steam Deck and Mac through the cloud folder you already use for saves. No account, no server; an hour on each device adds up to two. *Settings → Folders.*
+- **⏯️ Continue anywhere** — quit on one device, pick up on another. Bezel shows where you left off (“left off on DESKTOP, 20 min ago”) and waits for your newest save to arrive instead of loading an older one.
+- **🔎 Ask your library** — search by what you mean: *“two player fighting game”*, *“something like Breath of Fire II”*, *“favorites I never played”*. Every game gets a **More like this** row. Runs entirely on your machine (a one-time ~33 MB download, only when you switch it on).
+- **🎞️ Previews without playing** — one click gives a whole system gameplay previews: Bezel boots each game quietly in the background and records a real clip for its tile.
+- **🈳 Deeper ROM translation** — the script tool reads a game's control codes, dumps whole text boxes, finds its font, adds Latin letters into free font slots, and exports your work as a **BPS** patch.
+
+<p align="center">
+  <img src=".github/assets/themes.webp" width="92%" alt="Bezel's seven themes: Bezelie's Room, Glass, Console, Night Drive, Amber, Classic and Midnight"><br>
+  <em>Bezelie's Room · Glass · Console · Night Drive · Amber · Classic · Midnight</em>
+</p>
 
 ---
 
@@ -52,7 +73,6 @@
 - **🧠 A mind that grows** — she keeps memories, a diary of who she's becoming, moods, opinions and a bond that deepens the more you play. Her whole self saves to one portable **soul** file that survives a reinstall or moves to a new PC.
 - **🎮 She can play, too** — stuck on a part? Bezelie can take the controller. She learns your games, practises on her own, studies how the best players do it, and drives.
 - **🎭 Make her yours** — pick her personality (a teasing tsundere by default, sweet, or write your own), tune her voice and how chatty she is, and adjust her look.
-- **📺 Put her On-Air** — she doubles as a real VTuber: her own stream stage, chat interaction, and auto-clipped highlights — streaming-safe by design.
 
 > Bezelie has a free tier (her built-in voice and reactions); her deeper mind features are an optional Premium that helps cover the AI that powers them.
 
@@ -68,8 +88,13 @@
 </p>
 
 <p align="center">
-  <img src=".github/assets/details.png" width="49%" alt="Game details">
-  <img src=".github/assets/translate.png" width="49%" alt="On-screen translation"><br>
+  <img src=".github/assets/room.webp" width="92%" alt="Bezelie's Room — the default theme: a cozy welcome, a Continue card for the game you left off in, and your recent games"><br>
+  <em>Bezelie's Room, the default theme — welcome home.</em>
+</p>
+
+<p align="center">
+  <img src=".github/assets/details-glass.webp" width="34%" alt="A game's Details sheet in Glass">
+  <img src=".github/assets/translate.png" width="64%" alt="On-screen translation"><br>
   <em>Rich game details &nbsp;·&nbsp; live on-screen translation for import games.</em>
 </p>
 
@@ -88,7 +113,7 @@
 3. To play from Game Mode: **exit Steam**, press **🎮 Add Bezel to Steam** in Settings (shortcut, artwork and launch options are set automatically), start Steam, and pick the **Gamepad** controller template on Bezel's page once. RetroArch (Flatpak) installs itself on first launch.
 
 **macOS (Apple Silicon)**
-1. Download **`Bezel-macOS-0.2.0-arm64.dmg`** from the [**macOS release**](https://github.com/BezelMedia/Bezel/releases/tag/macos-0.2.0) and drag Bezel to Applications.
+1. Download **`Bezel-macOS-<version>-arm64.dmg`** from [**Releases**](https://github.com/BezelMedia/Bezel/releases/latest) and drag Bezel to Applications.
 2. It isn’t notarized yet, so **right-click the app → Open** the first time (or *System Settings → Privacy & Security → Open Anyway*). If it still refuses, run `xattr -cr /Applications/Bezel.app`.
 3. On first launch it downloads RetroArch and the offline metadata automatically. The Mac build is new and experimental — expect rough edges. _(Apple Silicon only for now.)_
 
@@ -157,18 +182,27 @@ A fully-voiced AI friend who **watches you play and reacts out loud**, talks and
 - **Install / rip** optical discs to clean `.chd` (or CUE+BIN) so they patch and play.
 - **Play straight off the drive** — no rip needed for PS1, Saturn, Sega CD, and 3DO.
 
-### ☁️ Saves that follow you
+### ☁️ Bezel Everywhere — saves and library that follow you
 - Point Bezel at a folder your **Google Drive / Dropbox / OneDrive / NAS** keeps synced, and your in-app **and** RetroArch saves sync across every device that uses the same folder.
+- Turn on **library sync** and favorites, playtime, last played, collections and per-game settings follow too — each device writes only its own file, so cloud apps never make “conflicted copies”.
+- **Continue anywhere** — Bezel knows which device you last played on and waits for the newest save to land before it launches.
+
+### 🔎 Ask your library
+- Search by meaning as well as title — *“cute puzzle game”*, *“quick snes shooter”*, *“something like Chrono Trigger”* — plus filters it understands on its own: never played, favorites, a decade, a system by any of its names.
+- **More like this** in every game's details: its eight nearest neighbours, genre-aware.
+- Entirely on-device: a small model (~33 MB) downloads once, only after you switch it on.
 
 ### 🌐 Read import games
 - **Live on-screen translation** while you play — a **Vision model** reads and translates the whole screen (great for stylized fonts), or **OCR → DeepL** for speed. One-shot, an **Auto** mode that re-translates as the text changes, a **region selector** to box just the dialogue, and a per-game **glossary** so names stay consistent.
 
 ### 🎨 Make it yours
 - **Custom bezels** — auto-generated from a game's box art, or supply your own artwork with a per-game screen cutout.
-- **Light / dark theme**, and **controller-first** navigation throughout (with an in-game Up+Start menu and remapping).
+- **Seven themes**, each in light and dark — **Bezelie's Room** (the default), **Glass**, **Console**, **Night Drive**, **Amber**, **Classic** and **Midnight** — plus one-click community themes, and **controller-first** navigation throughout (with an in-game Up+Start menu and remapping).
 
 ### 🔧 Tinkerer-friendly
 - **Patches & fan-translations** — apply IPS / BPS / UPS / xdelta / PPF, with an optional patch-library folder.
+- **Make your own translation** — the script tool finds a game's text and font, decodes its control codes, adds Latin letters into free glyph slots and exports a **BPS** patch.
+- **Gameplay previews** — generate silent gameplay clips for a whole system in one go; they fade in over the cover when you select a game.
 - **Manuals & strategy guides** — drop in your own PDF / CBZ / CBR scans and read them in an in-app, controller-navigable viewer.
 - **GOG library** — point at your GOG install folder to shelve and launch those games too.
 
@@ -210,6 +244,9 @@ The installer isn't code-signed yet (it's in Beta). Click **More info → Run an
 
 **Where do my games and saves live?**
 Under `Documents\Bezel` by default — all paths are changeable in Settings. Cloud saves go to whatever synced folder you choose.
+
+**Can I use Bezel on more than one computer?**
+Yes. Point every device at the same synced folder and turn on library sync (**Settings → Folders**) — your saves, favorites, playtime and collections stay in step, with no account.
 
 ---
 
