@@ -4,6 +4,7 @@
 
 <h1 align="center">Bezel</h1>
 <h3 align="center">Your whole retro library — with a companion who plays along.</h3>
+<p align="center"><sub>by <a href="https://retrobezel.com"><b>RetroBezel</b></a> · retrobezel.com</sub></p>
 
 <p align="center">
   <a href="https://github.com/BezelMedia/Bezel/releases/latest"><img src="https://img.shields.io/github/v/release/BezelMedia/Bezel?label=download&color=c07de8&cb=1" alt="Latest release"></a>
@@ -18,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/BezelMedia/Bezel/releases/latest"><b>⬇ Download</b></a> ·
-  <a href="https://retrobezel.com">Website</a> ·
+  <a href="https://retrobezel.com">RetroBezel.com</a> ·
   <a href="https://www.reddit.com/r/Bezel/">Reddit</a> ·
   <a href="https://x.com/retrobezel">X</a> ·
   <a href="https://ko-fi.com/retrobezel">Support</a> ·
@@ -249,6 +250,10 @@ Under `Documents\Bezel` by default — all paths are changeable in Settings. Clo
 Yes. Point every device at the same synced folder and turn on library sync (**Settings → Folders**) — your saves, favorites, playtime and collections stay in step, with no account.
 
 ---
+
+## About RetroBezel
+
+Bezel is made by **RetroBezel** — the official site is **[retrobezel.com](https://retrobezel.com)**, with the full help guide at **[Bezelpedia](https://retrobezel.com/bezelpedia/)**.
 
 ## Not affiliated
 
